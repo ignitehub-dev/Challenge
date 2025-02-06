@@ -4,4 +4,6 @@
 
 `npm run dev`
 
-## findHiddenUrl has the script for the hidden url
+## findHiddenUrl.js
+
+Contains the script for the hidden url.
